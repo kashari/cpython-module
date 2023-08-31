@@ -4,7 +4,7 @@ Building a 'stringutil' that has a single function named 'trim' that removes all
 ## usage 
 run 
 ```shell
-docker -build -t cpython .
+docker build -t cpython .
 ```
 then 
 ``` shell
