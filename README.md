@@ -1,5 +1,6 @@
 # Python/C API module example
 Building a 'stringutil' that has a single function named 'trim' that removes all the whitespaces from a string.
+Python header file usually in a 'NIX system is located under `/usr/include/python3.x/Python.h`.
 
 ## usage 
 run 
